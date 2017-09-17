@@ -24,4 +24,4 @@ There are some FreshRSS extensions out there, developed by community members:
 
 ### By [@Eisa01](https://github.com/Eisa01)
 
-* [FreshRSS Auto Refresh](https://github.com/Eisa01/FreshRSS---Auto-Refresh-Extension): Automatically refreshes FreshRSS page once in a minute.
+* [FreshRSS Auto Refresh](https://github.com/Eisa01/FreshRSS---Auto-Refresh-Extension): Automatically refreshes FreshRSS page once in a minute, when there is no activity detected.
